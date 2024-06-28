@@ -77,7 +77,7 @@ def guardar_alumno():
 
     def promedio_notas():
         promedio=({sum.notas/totalnotas})
-        print("el promedio del alumno es: {promedio}")
+        print(f"el promedio del alumno es: {promedio}")
 
 
 def menu():
